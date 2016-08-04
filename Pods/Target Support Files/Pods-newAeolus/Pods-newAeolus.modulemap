@@ -1,0 +1,6 @@
+framework module Pods_newAeolus {
+  umbrella header "Pods-newAeolus-umbrella.h"
+
+  export *
+  module * { export * }
+}
